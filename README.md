@@ -1,2 +1,1 @@
-# viralbaru
-viralbaru
+# [viralbaru](https://viralbaru.pages.dev)
